@@ -2,7 +2,7 @@
 import os;
 
 
-dataDir = "../data/";
+dataDir = "./data/";
 typeDir = dataDir + "type/";
 contentDir = dataDir + "content/";
 
